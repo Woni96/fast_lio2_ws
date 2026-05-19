@@ -1,0 +1,1 @@
+/home/user/fast_lio2_ws/fast_lio2_ws/src/FAST_LIO_ROS2/FAST_LIO/launch/mapping_avia.launch.py

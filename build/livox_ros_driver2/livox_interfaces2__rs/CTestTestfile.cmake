@@ -1,0 +1,6 @@
+# CMake generated Testfile for 
+# Source directory: /home/user/fast_lio2_ws/fast_lio2_ws/build/livox_ros_driver2/livox_interfaces2__rs
+# Build directory: /home/user/fast_lio2_ws/fast_lio2_ws/build/livox_ros_driver2/livox_interfaces2__rs
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.

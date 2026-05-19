@@ -1,0 +1,1 @@
+/home/user/fast_lio2_ws/fast_lio2_ws/build/fast_lio/rosidl_generator_rs/fast_lio/rust/src/msg.rs
