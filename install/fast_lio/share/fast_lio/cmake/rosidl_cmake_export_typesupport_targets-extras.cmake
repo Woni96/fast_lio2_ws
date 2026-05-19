@@ -1,1 +1,0 @@
-/home/user/fast_lio2_ws/fast_lio2_ws/build/fast_lio/rosidl_cmake/rosidl_cmake_export_typesupport_targets-extras.cmake

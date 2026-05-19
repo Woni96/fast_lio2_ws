@@ -1,1 +1,0 @@
-/home/user/fast_lio2_ws/fast_lio2_ws/build/livox_ros_driver2/rosidl_generator_cpp/livox_ros_driver2/msg/custom_msg.hpp
